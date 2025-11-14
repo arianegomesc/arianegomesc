@@ -1,9 +1,4 @@
 ## Olá, eu sou a Ariane! 👋
-🎨 Em transição de carreira, do Design Gráfico para Desenvolvimento Back-end  
-💻 Estudante de TI - Banco de Dados pelo GRAN Centro Universitário
-✨ Apaixonada por tecnologia, criatividade e aprendizado contínuo!
-
----
 
 Sou estudante de Banco de Dados pela Gran Faculdade e em formação para atuar como desenvolvedora Back-end. Tenho construído uma base sólida em SQL, Python, modelagem de dados e boas práticas de estruturação, competências que direcionam meu foco para criar sistemas eficientes e bem organizados.
 

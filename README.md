@@ -26,12 +26,13 @@ Aqui você encontra um pouco dos meus projetos, estudos e experimentos enquanto 
 ### 🏅 Emblemas e Certificações:
 
 <p align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+  
+  <img src="https://images.credly.com/size/340x340/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="45" height="45" />
+  <img src="https://images.credly.com/size/340x340/images/26c21273-c0ab-485b-98a7-f1212dcb82b8/image.png" width="45" height="45" />
+  <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="45" height="45" />
+  <img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="45" height="45" />
+  <img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png.svg" width="45" height="45" />
+  <img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="45" height="45" />
 </p>
 
 <!--

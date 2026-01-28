@@ -1,14 +1,15 @@
 ## Olá, eu sou a Ariane! 👋
 
-Sou estudante de Banco de Dados pela Gran Faculdade e em formação para atuar como desenvolvedora Back-end. Tenho construído uma base sólida em SQL, Python, modelagem de dados e boas práticas de estruturação, competências que direcionam meu foco para criar sistemas eficientes e bem organizados.
+Sou estudante de Banco de Dados pela Gran Faculdade e estou em formação para atuar como desenvolvedora Back-end. Tenho construído uma base sólida em SQL, Python, modelagem de dados e boas práticas de estruturação, com foco em criar sistemas eficientes, organizados e escaláveis.
 
-Atualmente participo do programa IT For Girls, da Cisco, onde aprimoro meus conhecimentos em Python, lógica de programação, Git e fundamentos de TI. Em paralelo, estudo Java, HTML e CSS, fortalecendo minha capacidade de desenvolver aplicações completas e com atenção à arquitetura e funcionamento interno.
+Concluí o programa IT For Girls, da Cisco, onde finalizei os cursos Python 1 e Python 2, fortalecendo meus conhecimentos em lógica de programação, Git e fundamentos de TI. Atualmente, estou me dedicando ao estudo de Java, aprofundando minha compreensão sobre desenvolvimento Back-end e arquitetura de aplicações.
 
-Venho da área de design digital, experiência que me trouxe habilidades importantes como organização, clareza, criatividade e foco no usuário — valores que aplico diretamente no desenvolvimento de soluções tecnológicas.
+Venho da área de design digital, experiência que desenvolveu em mim habilidades como organização, clareza, criatividade e foco no usuário — valores que aplico diretamente no desenvolvimento de soluções tecnológicas bem pensadas e funcionais.
 
-Meu objetivo é evoluir na área de Back-end, criando APIs, integrações e sistemas estruturados que ofereçam desempenho, segurança e facilidade de manutenção.
+Meu objetivo é evoluir na área de Back-end, atuando na criação de APIs, integrações e sistemas estruturados, com atenção especial a desempenho, segurança e manutenibilidade.
 
-Aqui você encontra um pouco dos meus projetos, estudos e experimentos enquanto construo minha trajetória na tecnologia com dedicação, curiosidade e vontade de aprender sempre mais!
+Aqui você encontrará meus projetos, estudos e experimentos, que refletem minha jornada na tecnologia, guiada por dedicação, curiosidade e aprendizado contínuo!
+
 
 ---
 ### 💻 Linguagens e Tecnologias:

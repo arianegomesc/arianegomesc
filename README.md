@@ -1,17 +1,56 @@
 ## Olá, eu sou a Ariane! 👋
 
-Sou estudante de Banco de Dados pela Gran Faculdade e estou em formação para atuar como desenvolvedora Back-end. Tenho construído uma base sólida em SQL, Python, modelagem de dados e boas práticas de estruturação, com foco em criar sistemas eficientes, organizados e escaláveis.
+### 🇧🇷 Sobre mim
+Sou estudante de Banco de Dados com foco em desenvolvimento Back-end, trabalhando na construção de sistemas eficientes, organizados e escaláveis.
 
-Concluí o programa IT For Girls, da Cisco, onde finalizei os cursos Python 1 e Python 2, fortalecendo meus conhecimentos em lógica de programação, Git e fundamentos de TI. Atualmente, estou me dedicando ao estudo de Java, aprofundando minha compreensão sobre desenvolvimento Back-end e arquitetura de aplicações.
+Tenho base sólida em SQL, Python, modelagem de dados e boas práticas de estruturação de sistemas, atualmente aprofundando conhecimentos em Java, APIs e fundamentos de Cloud.
 
-Venho da área de design digital, experiência que desenvolveu em mim habilidades como organização, clareza, criatividade e foco no usuário — valores que aplico diretamente no desenvolvimento de soluções tecnológicas bem pensadas e funcionais.
-
-Meu objetivo é evoluir na área de Back-end, atuando na criação de APIs, integrações e sistemas estruturados, com atenção especial a desempenho, segurança e manutenibilidade.
+Minha experiência anterior em Design Digital desenvolveu habilidades de organização, clareza e pensamento centrado no usuário, que aplico diretamente no desenvolvimento de soluções tecnológicas.
 
 Aqui você encontrará meus projetos, estudos e experimentos, que refletem minha jornada na tecnologia, guiada por dedicação, curiosidade e aprendizado contínuo!
 
+---
+
+### 🇺🇸 English Version
+
+## Hello, I'm Ariane Gomes 👋
+Back-end Developer in Training | SQL • Python • Java
+
+I am a Database student focused on building scalable and efficient Back-end solutions.
+I have a strong foundation in SQL, Python, data modeling, and system structuring best practices, currently expanding my knowledge in Java, APIs, and Cloud fundamentals.
+
+With a background in Digital Design, I bring organization, creativity, and user-focused thinking into technology solutions.
 
 ---
+
+### Current Focus
+
+Back-end Development
+
+API Design
+
+Database Modeling and Optimization
+
+Java and System Architecture
+
+Cloud Fundamentals
+
+---
+
+### Tech Stack
+
+Languages: Python, SQL, Java
+Tools: Git, GitHub
+Concepts: Data Modeling, APIs, Back-end Architecture, Clean Code
+
+---
+
+### Projects
+
+Here you will find my practical projects, studies, and experiments documenting my continuous learning journey in technology.
+
+---
+
 ### 💻 Linguagens e Tecnologias:
 
 <p align="left">

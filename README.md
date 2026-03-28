@@ -35,6 +35,8 @@ Java and System Architecture
 
 Cloud Fundamentals
 
+AWS
+
 ---
 
 ### Tech Stack

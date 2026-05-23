@@ -75,6 +75,7 @@ Here you will find my practical projects, studies, and experiments documenting m
   <span><img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="45" /></span>
   <span><img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" width="45" /></span>
   <span><img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="45" /></span>
+  <span><img src="https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="45" /></span>
 </p>
 
 <!--
